@@ -1,0 +1,25 @@
+Playing_with_Objects.Interface.Rectangle
+X is: 99.0
+Y is: 28.0
+Area of the Playing_with_Objects.Interface.Circle is : 144.0
+Perimeter of the Playing_with_Objects.Interface.Circle is: 72.0
+Width of the circle is: 24.0
+Fill color is: Orange
+ Line color is: White
+Playing_with_Objects.Interface.Circle
+X is: 22.0
+Y is: 39.0
+Area of the Playing_with_Objects.Interface.Circle is : 452.0
+Perimeter of the Playing_with_Objects.Interface.Circle is: 75.39822368615503
+Radius of the circle is: 12.0
+Fill color is: red
+ Line color is: Orange
+Playing_with_Objects.Interface.Rectangle
+X is: 57.0
+Y is: 16.0
+Area of the Playing_with_Objects.Interface.Circle is : 1560.0
+Perimeter of the Playing_with_Objects.Interface.Circle is: 237.0
+Width of the circle is: 79.0
+Fill color is: Purple
+ Line color is: White
+null
